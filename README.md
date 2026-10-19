@@ -1,6 +1,6 @@
 # yaml
 
-Small YAML parser and serializer written in Neutron. Parsed documents use the
+Full YAML parsing and serialization for Neutron. Parsed documents use the
 same compact JSON representation as the `json` module, so the result can be
 inspected with `json.get`, `json.keys`, and `json.at`.
 
