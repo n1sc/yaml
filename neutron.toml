@@ -2,3 +2,4 @@
 name = "yaml"
 entry = "lib.nt"
 output = "yaml"
+compiler = "^0.1"
